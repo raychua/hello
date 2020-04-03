@@ -37,3 +37,4 @@ console.log(ferrari);
 console.log(ducati);
 ducati.newgear = 2;
 console.log(ducati);
+console.log(ducati);
